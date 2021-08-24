@@ -3,6 +3,9 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "LandingJP",
   },
-  plugins: ["gatsby-plugin-gatsby-cloud","gatsby-plugin-postcss"],
+  plugins: ["gatsby-plugin-gatsby-cloud",
+  "gatsby-plugin-postcss",
+  "gatsby-plugin-image",
+  "gatsby-plugin-sharp",],
  
 };
