@@ -2,6 +2,18 @@
 import React, { Fragment } from 'react'
 
 const textinformation = () => {
+    
+    const handleClick = (e) => {
+        e.preventDefault()
+        const target = e.target.getAttribute('href')
+        const location = document.querySelector(target).offsetTop
+        
+        window.scrollTo({
+          left: 0,
+          top: location,
+        })
+      }
+    
     return (
         <Fragment>
             
@@ -19,12 +31,16 @@ const textinformation = () => {
                     </div>
                 </span>                
                 <div className="mt-4">
-                    <button className="
+                    <a
+                     onClick={handleClick}
+                     href="#priccesDiv"
+                     className="
                     bg-transparent py-2 px-4 border font-semibold uppercase border-black text-gray-800
                     lg:rounded-tr-lg lg:rounded-none rounded-full
                     hover:bg-black   hover:text-white   hover:border-transparent">
                         Conoce nuestras asesorias
-                    </button>       
+                    </a>
+                    
                 </div>
             
         </Fragment>

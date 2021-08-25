@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/global.css';
+import '../components/global/globalComponent.css';
 
 import Background from '../components/main/background';
 import Backgroundproducts from '../components/products/backgroundproducts';
