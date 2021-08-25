@@ -6,11 +6,11 @@ const textinformation = () => {
         <Fragment>
             
                 <span className="text-left  text-gray-800 font-medium text-xl lg:text-5xl pb-4 uppercase italic">
-                    Que no sean
+                    Que no sea un
                     <p className="text-white bg-black transform -skew-x-12">
                          impedimento las matematicas
                     </p>
-                    para el desempeño
+                    para el desarrollo
                     <div className="flex flex-row">
                         <p className="text-white bg-black transform -skew-x-12 w-1/2">
                             de tu talento 
