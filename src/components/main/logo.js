@@ -4,8 +4,8 @@ import './logo.css';
 const logo = () => {
     return (
         <Fragment>
-            <div className="flex flex-row w-full h-1/6 justify-center md:hidden mb-2">         
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 21000 27300"  >             
+            <div className="flex flex-row w-full lg:h-8 h-1/6 lg:justify-start justify-center lg:mb-0 mb-2">         
+                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 21000 27300" className="flex justify-center items-center  h-full" >             
                     <g id="Capa_x0020_1">
                     <metadata id="CorelCorpID_0Corel-Layer"/>
                     <g id="_315003416">
@@ -20,8 +20,8 @@ const logo = () => {
                     </g>
                 </svg>
 
-                <div className="flex justify-center items-center ml-5">
-                    <p className="text-gray-800 font-medium text-lg">Raíz | Asesorias Académicas</p>
+                <div className="flex justify-center items-center h-full ml-2">
+                    <p className="text-gray-800 font-medium lg:text-md text-lg">Raíz | Asesorias Académicas</p>
                 </div>
 
             </div>

@@ -21,7 +21,7 @@ const textinformation = () => {
                 <span className="text-left  text-gray-800 font-medium text-xl lg:text-5xl pb-4 uppercase italic">
                     Que no sea un
                     <p className="text-white bg-black transform -skew-x-12">
-                         impedimento las matematicas
+                         impedimento las matemáticas
                     </p>
                     para el desarrollo
                     <div className="flex flex-row">
