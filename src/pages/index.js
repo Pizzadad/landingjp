@@ -7,10 +7,16 @@ import Backgroundproducts from '../components/products/backgroundproducts';
 
 import WhattsapButton from '../components/global/whattsapButton';
 import Footer from '../components/global/footer';
+import Seo from '../components/global/Seo';
 
 const index = () => {
   return (
     <main>
+      <Seo
+        tittle = "Raiz | Asesorias Académicas"
+        description = "Resolucion de  tareas, examenes y clases particulares de matematica y fisica para estudiantes de primaria y secundaria del Peru"
+      />
+
         <Background />
         <Backgroundproducts />
         <WhattsapButton />

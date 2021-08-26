@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "LandingJP",
+    tittle: "Raiz Asesorias Academicas Peru",
+    description: "Asesorias academicas, resolucion de tareas, resolucion de examenes para estudiantes de primaria, secundaria de Peru",
+    siteUrl: "https://asesoriasraiz.gatsbyjs.io",
+    author: "ChristianRl"
   },
   plugins: [
     {

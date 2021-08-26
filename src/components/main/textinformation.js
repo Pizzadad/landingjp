@@ -18,7 +18,7 @@ const textinformation = () => {
     return (
         <Fragment>
                 <Logo />
-                <span className="text-left  text-gray-800 font-medium text-xl lg:text-5xl pb-4 uppercase italic">
+                <h1 className="text-left  text-gray-800 font-medium text-xl lg:text-5xl pb-4 uppercase italic">
                     Que no sea un
                     <p className="text-white bg-black transform -skew-x-12">
                          impedimento las matemáticas
@@ -30,7 +30,7 @@ const textinformation = () => {
                         </p>
                         <p className="not-italic w-1/2 ">🤯</p>
                     </div>
-                </span>                
+                </h1>                
                 <div className="mt-4">
                     <a
                      onClick={handleClick}
