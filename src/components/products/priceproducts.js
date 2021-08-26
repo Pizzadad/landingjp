@@ -44,7 +44,7 @@ const priceproducts = () => {
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Explicación de la resolución debe ser programada dependiendo a la disponibilidad
+                                </span>Explicación de la resolución debe ser programada dependiendo la disponibilidad del asesor
                             </p>                                                        
                         </div>
                     </div>

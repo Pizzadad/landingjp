@@ -9,7 +9,7 @@ const pictureinformation = () => {
                 <StaticImage 
                     className="object-contain lg:h-screen lg:w-full w-screen"
                     alt="Img Test"
-                    src="../../images/imageprincipal.png"
+                    src="../../images/imageprincipal-min.png"
                 />
             </div>
            

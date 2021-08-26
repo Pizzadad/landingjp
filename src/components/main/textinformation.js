@@ -1,5 +1,6 @@
 
 import React, { Fragment } from 'react'
+import Logo from './logo'
 
 const textinformation = () => {
     
@@ -16,7 +17,7 @@ const textinformation = () => {
     
     return (
         <Fragment>
-            
+                <Logo />
                 <span className="text-left  text-gray-800 font-medium text-xl lg:text-5xl pb-4 uppercase italic">
                     Que no sea un
                     <p className="text-white bg-black transform -skew-x-12">
