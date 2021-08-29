@@ -4,14 +4,17 @@ import React, { Fragment } from 'react'
 const pictureinformation = () => {
     return (
         <Fragment>
-            <div className="flex justify-center">
+           
                 
                 <StaticImage 
-                    className="object-contain lg:h-screen lg:w-full w-screen"
-                    alt="Img Test"
+                    className = "flex justify-center"
+                    imgClassName="object-contain lg:h-full lg:w-full w-screen"
+                    alt="Img Raiz asesorias academicas"
                     src="../../images/imageprincipal-min.png"
+                    objectPosition
+                    loading="eager"
                 />
-            </div>
+          
            
             
         </Fragment>
