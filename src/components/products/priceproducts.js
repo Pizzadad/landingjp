@@ -37,7 +37,7 @@ const priceproducts = () => {
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Descuento por mas de 5 ejercicios
+                                </span>Descuento por más de 5 ejercicios
                             </p>
                             <p className="flex items-center text-white mb-6 text-justify ">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-800 text-white rounded-full flex-shrink-0">
@@ -74,21 +74,21 @@ const priceproducts = () => {
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Cantidad de horas de asesoria dependera del temario del curso
+                                </span>Cantidad de horas de asesoría depende del temario del curso
                             </p>
                             <p className="flex items-center text-white mb-2 text-justify ">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-800 text-white rounded-full flex-shrink-0">
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Horas de sesiones de asesoria dependera de la disponibilidad del estudiante previa coordinación con el asesor
+                                </span>Horas de sesiones de asesoría depende de la disponibilidad del estudiante previa coordinación con el asesor
                             </p>
                             <p className="flex items-center text-white mb-2 text-justify ">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-800 text-white rounded-full flex-shrink-0">
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Por motivo de indisponibilidad del estudiante, no se recuperaran las horas de sesiones
+                                </span>Por motivo de indisponibilidad del estudiante, no se recuperarán las horas de sesiones
                             </p>                                                                             
                         </div>
                     </div>
@@ -112,21 +112,21 @@ const priceproducts = () => {
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Dia de asesoria previa coordinación con el asesor
+                                </span>Dia de asesoría previa coordinación con el asesor
                             </p>
                             <p className="flex items-center text-white mb-2 text-justify ">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-800 text-white rounded-full flex-shrink-0">
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Cantidad de horas de asesoria dependera del tema del curso
+                                </span>Cantidad de horas de asesoría depende del tema del curso
                             </p>
                             <p className="flex items-center text-white mb-6 text-justify ">
                                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-800 text-white rounded-full flex-shrink-0">
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                                     <path d="M20 6L9 17l-5-5"></path>
                                 </svg>
-                                </span>Por motivo de indisponibilidad del estudiante, se reprogramará la sesion con disponibilidad del asesor
+                                </span>Por motivo de indisponibilidad del estudiante, se reprogramará la sesión con disponibilidad del asesor
                             </p>
                             
                             
